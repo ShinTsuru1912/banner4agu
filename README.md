@@ -1,2 +1,2 @@
 # banner4agu
-I am human.
+# AGU情報社会論用サンプルリポジトリ
